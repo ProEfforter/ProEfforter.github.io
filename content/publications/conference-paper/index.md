@@ -1,12 +1,13 @@
 ---
-title: 'An example conference paper'
+title: 'Development and application of SW·AI education program for Digital Sprout Camp'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Jong Hun Kim
   - me
-  - Robert Ford
+  - Seung Bo Park
 
 # Author notes (optional)
 author_notes:
@@ -16,24 +17,34 @@ author_notes:
 date: '2013-07-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-03-04T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *HugoBlox Kit Conference*
-publication_short: In *ICW*
+publication: Journal of The Korea Society of Computer and Information
+publication_short: In *JKSCI*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To foster the core talents of the future, the development of diverse and substantial SW‧AI education programs
+  is required, and a systematic system that can assist public education in SW and AI must be established. In this
+  study, we develop and combine SW‧AI education modules to construct a SW and AI education program applicable
+  to public education. We also establish a systematic education system and provide sustainable SW‧AI education to
+  elementary, middle, and high school students through ‘Job's Garage Camp’ based on various sharing platforms.
+  By creating a sustainable follow-up educational environment, students are encouraged to continue their self-directed
+  learning of SW and AI. As a result of conducting a pre-post survey of students participating in the 'Job's Garage
+  Camp', the post-survey values improved compared to the pre-survey values in all areas of 'interest', 'understanding
+  and confidence', and 'career aspirations'. Based on these results, it can be confirmed that students had a universal positive
+  perception and influence on SW and AI. Therefore, if the operation case of ‘Job's Garage Camp’ is improved and
+  expanded, it can be presented as a standard model applicable to other SW and AI education programs in the future.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study proposes a sustainable SW·AI education program for K–12 students and shows that participation significantly improves students’ interest, understanding, confidence, and career aspirations in SW and AI.
 
 tags:
-  - Large Language Models
+  - Computer Education
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,8 +52,7 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
-
+    doi: https://doi.org/10.9708/jksci.2024.29.03.217
 # Custom links
 links:
   - type: pdf
